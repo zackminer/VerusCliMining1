@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
+        	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	}
 	],
