@@ -19,7 +19,7 @@
 	"user": "RYJ1os4gvEwZreS76HEtghcYwoT9jm7fcE.PHONE_aqous r31",
 	"pass": "x",
 	"algo": "verus",
-	"threads": ,5,
+	"threads": 5,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
