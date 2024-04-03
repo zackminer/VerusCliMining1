@@ -1,4 +1,4 @@
-ggg{
+
 	"pools":[
 	{
 		"name": "LuckPool",
@@ -24,4 +24,4 @@ ggg{
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
 	"api-bind": "0.0.0.0:4068"
-}
+
