@@ -16,10 +16,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "RYJ1os4gvEwZreS76HEtghcYwoT9jm7fcE.PHONE_aqous r3 Redpir 6Core",
+	"user": "RYJ1os4gvEwZreS76HEtghcYwoT9jm7fcE.PHONE_aqous r3 WhiteWeak 4Core",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 6,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
